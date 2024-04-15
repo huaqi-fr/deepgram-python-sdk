@@ -22,7 +22,7 @@ version = {attr = "deepgram.__version__"}
 # poetry configuration
 [tool.poetry]
 name = "deepgram"
-version = "3.X.Y" # Please update this to the version you are using
+version = "3.2.3" # Please update this to the version you are using
 description = "The official Python SDK for the Deepgram automated speech recognition platform."
 authors = ["Deepgram DevRel <devrel@deepgram.com>"]
 license = "MIT"
@@ -33,7 +33,7 @@ python = "^3.10"
 httpx = "^0.25.2"
 websockets = "^12.0"
 typing-extensions = "^4.9.0"
-dataclasses-json = "^0.6.3"
+dataclasses-json = "^0.5.9"
 aiohttp = "^3.9.1"
 aiofiles = "^23.2.1"
 verboselogs = "^1.7"

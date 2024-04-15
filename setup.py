@@ -29,7 +29,7 @@ setup(
     install_requires=[
         "httpx>=0.25.2",
         "websockets>=12.0",
-        "dataclasses-json>=0.6.3",
+        "dataclasses-json==0.5.9",
         "typing_extensions>=4.9.0",
         "aiohttp>=3.9.1",
         "aiofiles>=23.2.1",

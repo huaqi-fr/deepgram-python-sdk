@@ -3,7 +3,7 @@
 # standard libs
 websockets
 httpx
-dataclasses-json
+dataclasses-json==0.5.9
 dataclasses
 typing_extensions
 verboselogs
