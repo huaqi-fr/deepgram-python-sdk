@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: MIT
 
 # version
-__version__ = "0.0.0"
+__version__ = "3.2.3"
 
 # entry point for the deepgram python sdk
 from .client import Deepgram, DeepgramClient
